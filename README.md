@@ -15,4 +15,5 @@ An intelligent, AI-powered system that detects vehicles in real time, tracks the
 🖼️ Annotated Outputs – Get visually enriched videos with bounding boxes, IDs, and speed overlays.
 
 ![image1](https://github.com/iSattya/vehicle-detection-project/blob/main/Screenshot%202024-12-12%20122808.png?raw=true)
+![image2](https://github.com/iSattya/vehicle-detection-project/blob/main/Screenshot%202024-12-18%20134058.png?raw=true)
 
